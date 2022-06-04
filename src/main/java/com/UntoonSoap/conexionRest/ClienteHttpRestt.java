@@ -25,9 +25,7 @@ import com.UntoonSoap.conexionRest.Models.ComicSoap;
 public class ClienteHttpRestt 
 {
 
-	public String uriGateWay = "http://localhost:5000/graphql";
-	
-	
+	public String uriGateWay = "http://localhost:5000/graphql"; //conexion local, cambiar segun corresponda 
 	
 	@GetMapping()
 	@RequestMapping("")
