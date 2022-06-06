@@ -1,0 +1,10 @@
+com\example\producingwebservice\Rest\ClienteHttpRestt.class
+com\example\producingwebservice\WebServiceConfig.class
+io\spring\guides\gs_producing_web_service\ObjectFactory.class
+io\spring\guides\gs_producing_web_service\GetComicRequest.class
+com\example\producingwebservice\ComicSoapRepository.class
+com\example\producingwebservice\ProducingWebServiceApplication.class
+io\spring\guides\gs_producing_web_service\GetComicResponse.class
+com\example\producingwebservice\ComicEndpoint.class
+io\spring\guides\gs_producing_web_service\Comicsoap.class
+io\spring\guides\gs_producing_web_service\package-info.class
